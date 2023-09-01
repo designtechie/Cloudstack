@@ -52,7 +52,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [React]([https://reactjs.org/](https://www.w3schools.com/html/))
 - [Vite]([https://vuejs.org/](https://www.w3.org/Style/CSS/Overview.en.html))
-- [Tailwind css]
+- Tailwind css
 
 ## Features
 
