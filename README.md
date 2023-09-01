@@ -74,7 +74,7 @@ To clone and run this application, you'll need [Git](gh repo clone designtechie/
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone gh repo clone designtechie/Cloudstack
 
 # Install dependencies
 $ npm install
