@@ -1,15 +1,9 @@
-# CloudStack
-
-https://cloudstack.vercel.app/
-
-
-
 <!-- Please update value in the {}  -->
 
 <h1 align="center">Cloudstack</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="https://skillboost-xi.vercel.app/" target="_blank">Skill Boost</a>.
+   Solution for a challenge from  <a href="https://cloudstack.vercel.app/" target="_blank">Skill Boost</a>.
 </div>
 
 <div align="center">
@@ -43,7 +37,7 @@ https://cloudstack.vercel.app/
 
 ## Overview
 
-![screenshot]([(https://cloudstack.vercel.app/)])
+![screenshot]([(https://github.com/designtechie/Cloudstack/blob/master/src/assets/Screenshot.png)])
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
